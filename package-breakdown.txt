@@ -1,0 +1,10 @@
+express
+dotenv 
+mongoose
+cloudinary
+cookie-parser
+bcrypt 
+cors 
+express-fileupload
+jsonwebtoken
+validator
